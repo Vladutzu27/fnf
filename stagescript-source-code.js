@@ -1,3 +1,5 @@
+//WARNING! THIS CODE IS NOT VALID JS, BUT IT IS MADE IN A SCRATCH LIKE ENGINE NAMED SCOOLCODE, WHICH USES STAGESCRIPT
+
 stage {
     default backdrop lol01("user:medintu.vlad/lol01")
     sound Bopeebo__Friday("user:medintu.vlad/Bopeebo  Friday")
